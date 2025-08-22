@@ -1,0 +1,2 @@
+Anthropic Claude Chat Models
+Claude is a family of large language models (LLMs) developed by Anthropic, designed for safe, reliable, and conversational AI. In LangChain, you can integrate these models using the ChatAnthropic class, which allows you to send prompts and receive structured conversational responses. Popular variants include Claude 3 Opus (most powerful), Claude 3.5 Sonnet (balanced speed & capability), and Claude 3 Haiku (fastest, lightweight). These models are widely used for reasoning, content generation, coding help, and natural dialogue.
